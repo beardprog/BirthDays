@@ -1,0 +1,18 @@
+{
+    "name": "anatskyi/dates",
+    "description": "Find days from birthday.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oleksandr Anatskyi",
+            "email": "a.anackiy@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Anatskyi\\": "src"
+        }
+    }
+}
